@@ -12,8 +12,8 @@ import org.apache.commons.lang3.StringUtils;
 import br.com.myhelper.model.UsuarioModel;
 import br.com.myhelper.repository.UsuarioRepository;
 import br.com.myhelper.repository.entity.UsuarioEntity;
+import br.com.myhelper.sistema.MenuSistema;
 import br.com.myhelper.uteis.Uteis;
-import br.com.myhlper.sistema.MenuSistema;
 
 @Named(value = "usuarioController")
 @SessionScoped

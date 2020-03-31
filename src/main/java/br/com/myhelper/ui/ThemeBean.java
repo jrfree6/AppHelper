@@ -1,4 +1,4 @@
-package br.com.myhlper.ui;
+package br.com.myhelper.ui;
 
 import javax.faces.bean.ApplicationScoped;
 import javax.faces.bean.ManagedBean;
