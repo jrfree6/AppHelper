@@ -57,7 +57,7 @@ public class MenuSistema {
 			 */
 	 
 		} catch (Exception e) {
-			System.out.println("Deu merda...");
+			System.out.println("Error..." .e.getMessenger());
 			e.printStackTrace();
 		}
 	}
